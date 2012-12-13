@@ -1,0 +1,6 @@
+[submodule "KGNoise"]
+	path = KGNoise
+	url = https://github.com/kgn/KGNoise.git
+[submodule "CeedGL"]
+	path = CeedGL
+	url = https://github.com/rsebbe/CeedGL.git

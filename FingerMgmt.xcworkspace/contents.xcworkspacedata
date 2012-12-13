@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:FingerMgmt/FingerMgmt.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CeedGL/CeedGL.xcodeproj">
+   </FileRef>
+</Workspace>
